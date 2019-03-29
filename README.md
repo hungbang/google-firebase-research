@@ -5,3 +5,4 @@ Best practice :
 2.  [React Native Firebase example](https://appdividend.com/2018/04/23/react-native-firebase-example-from-scratch/)
 3.  [Firebase Algolia](https://www.algolia.com/doc/guides/sending-and-managing-data/send-and-update-your-data/tutorials/firebase-algolia/)
 4.  https://fireship.io/courses/cloud-functions/firestore-intro/
+5.  https://jool.nl/extending-firebase-with-cloud-functions-elasticsearch/
